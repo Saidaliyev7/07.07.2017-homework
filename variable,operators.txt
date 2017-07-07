@@ -1,0 +1,30 @@
+biz proqram yazanda ve s. onlarin hamisini komputerde yaddawda saxlayiriq ama yaddawda saxlmamaiwdan evvel
+bir gerek onlara yaddawda bir yer ayiraq variable da bunlardi yeni deyiwenlerdi ve bizde onlara yaddawda yer 
+saxlayiriq her bir verilenleri biz deyiwenlerle ifade etmeliyik variable ise yeni 3 cur olur 
+eded tipli deyiwenler metn tipli deyiwenler mentiqi deyiwenler (birde c c# c++ pointer tiplide var) 
+mentiqi tip deyiwen bool du ya true yada false olur eded tipliyoe yeni value qiymetde demey olar 
+bular 8 bitden bawlayaraq 128 bite geder davam edir bular ozu iki cur olur tam ededler ucun olan 
+birde kesr eded ucun tam ucunler 8 bit byte sbyte ferqleri byte menfi ededleri ozune yerlewdirmir
+16 bitlik short ushort 32 bitlik int uint 64 bitlik long ulong h bitler artdiqca yeni yazdiqimiz ededler
+ucun yaddawda daha cox yer saxlanilir ona gore duzgun secmek lazimdi deyiwenleri ve kesr deyiwenleri 
+32 bitlik float buna meselen short.short deye bileriy 64 bitlik double bu ozu int.int di ve
+128 bitlik decimal long.long u misal gostere bilerem birde char 16 bitlik bir tip var bu metn tipidir 
+simvol yeni yeni her yazdiqimiz bir wey bura metn kimi aid edilir 
+operatorlar biz proqramlarda riyazu mentiqi wert operatorlarindan cox istifade edirik 
+riyazi operator riyazi hesablamalari aparmaq ucundur bunlara + - * / % ilk dordu yeni 
+toplama cixma vurma bolmedi bularin hamsini umumen yazanda ilk olaraq moterizenini icinde sora vurma 
+yeni bele mentiqnen davam eliyir % bu ise moddur bu bolme zamani qaliqi qaytarir aciqi riyazi operatorlarin
+diger diller ile ferqi hamisinda bu operatorlar cox eynidi hemde cox istifade olnur bele ferq ise 
+duzdu pascal kohne olsada istifade edilmesede pascalda men bilern div mod kimi operatrolar var idi 
+wert operatorlarina == != > < >= <= binlar aiddir yeni birinci == meselen eger a == b ye beraberdise 
+true du eks halda false inkar yeni cavab nedise onun eksini cixarir meselen a!=b ye beraber olsa burada
+false cixacaq boyuk beraber hem beraber hem boyuk olmasini kicik beraberde hemcinin 
+birde mentiqi operatorlar var bu operatorlara && and, || or , ! not aid etmek olar && 2 ve daha artiq 
+werti yazmaq ucundu bu operratir yazilanda her iki teref true olanda cavab true olur eks halda false 
+|| or  operatoru yeni iki operatordan biri false digeri true olarsa yenede true qayidacaq yeni 
+bu operatorun false olmasi ucun gerek her iki teref false olsun ! inkar not operatoru ise 
+meselen !(true&&true) bu eslinde true olmalidi amma inkar not a gore false qayidir yeni ne olursa onun
+eksini cixarir bele misal ise meselen:
+(true||false)&&true||false burada ilk novbede moterize hesablanacaq ve moterizede true olacaq sora and
+hesablanacaq yeni true&&true||false olacaq ve buradan anddan true olacaq sora ise true||false qalacaq 
+ve buradanda true olacaq ve cavab true olacaq :)
